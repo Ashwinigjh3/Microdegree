@@ -1,2 +1,3 @@
 # Microdegree
 learning purpose
+exploring 
